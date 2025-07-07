@@ -19,6 +19,7 @@ console.log(cognome); // Stampa "Rossi"
 console.log(numero); // Stampa 10
 console.log(totale); // Stampa 50
 
+
 // Tipi di dato:
 // Stringa, numero, booleano, oggetto, array
 
